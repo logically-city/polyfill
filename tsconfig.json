@@ -1,0 +1,5 @@
+{
+  "extends": "@lough/tsconfig/typescript",
+  "extends": "@lough/tsconfig/typescript",
+  "include": ["src"]
+}
